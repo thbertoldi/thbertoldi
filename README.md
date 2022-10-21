@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Go Backend projects**
 
-- 🌱 I’m currently learning **Lisp, Svelte and IoT wireless protocols**
+- 🌱 I’m currently learning **Svelte and GCP**
 
-- 👯 I’m looking to collaborate on **Go IoT projects**
+- 👯 I’m looking to collaborate on **AI projects**
 
-- 💬 Ask me about **Python, Go and IoT (Embedded Linux, Connectivity)**
+- 💬 Ask me about **Python, Go, IoT and AI**
 
 - 📫 How to reach me **thiago.bertoldi@outlook.pt**
 
