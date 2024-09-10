@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
-<h3 align="center">A Control and Automation Engineer, who works as a software developer</h3>
+<h3 align="center">A Senior Software Engineer working for SUSE</h3>
 
-- 🔭 I’m currently working on **Go Backend projects**
-
-- 🌱 I’m currently learning **Svelte and GCP**
-
-- 👯 I’m looking to collaborate on **AI projects**
-
-- 💬 Ask me about **Python, Go, IoT and AI**
-
-- 📫 How to reach me **thiago.bertoldi@outlook.pt**
+- 🔭 I’m currently working on **Data & AI Products**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/thiago-bertoldi/?locale=en_US](https://www.linkedin.com/in/thiago-bertoldi/?locale=en_US)
 
