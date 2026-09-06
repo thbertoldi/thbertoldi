@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+  <title id="title">Design. Build. Question.</title>
+  <desc id="desc">Warm white and deep green, with a diagram connecting a task, a system, and a review.</desc>
+  <rect width="1200" height="250" fill="#F6F8F4"/>
+  <path d="M0 0H6V250H0Z" fill="#0C6554"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2" fill="#52665E">
+    <text x="48" y="47">ENGINEERING / RESEARCH / OPEN SOURCE</text>
+  </g>
+  <text x="44" y="127" fill="#203832" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="61" letter-spacing="-2">Design. Build. Question.</text>
+  <path d="M48 162H1152" stroke="#BACABD"/>
+  <g fill="#52665E" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="1">
+    <text x="48" y="205">HUMAN–AI WORKFLOWS</text>
+    <text x="365" y="205">AI INFRASTRUCTURE</text>
+    <text x="668" y="205">OBSERVABILITY</text>
+  </g>
+  <g stroke="#0C6554" stroke-width="2" fill="none">
+    <path d="M909 91H995M1005 91H1091M1095 96V124H905V96"/>
+    <circle cx="905" cy="91" r="5" fill="#F6F8F4"/>
+    <circle cx="1000" cy="91" r="5" fill="#0C6554"/>
+    <circle cx="1095" cy="91" r="5" fill="#F6F8F4"/>
+  </g>
+</svg>
