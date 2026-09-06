@@ -26,6 +26,8 @@ My master's research explores how software-task specifications and organizationa
 
 I also care about open source, digital sovereignty, software architecture, and how people keep their judgment when working with AI.
 
+[Currículo Lattes](http://lattes.cnpq.br/5682806822564118) · [ORCID: 0009-0002-8165-8826](https://orcid.org/0009-0002-8165-8826)
+
 ## Writing and speaking
 
 - **SUSECON 2026:** [AI Observability with OpenTelemetry: Patterns and Best Practices](https://www.youtube.com/watch?v=Nn4bNlDPfj4) — co-presented with Gunasekhar Matamalam.
