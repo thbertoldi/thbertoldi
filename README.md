@@ -1,6 +1,6 @@
 # Thiago Bertoldi
 
-![Design. Build. Question. — Human–AI workflows, infrastructure, and observability.](assets/profile-banner.svg)
+[![Design. Build. Question. — Human–AI workflows, infrastructure, and observability.](assets/profile-banner.svg?v=studio-slate)](https://thiagobertoldi.com)
 
 I'm an **Expert Software Engineer at SUSE AI** and an **MSc student in Knowledge Engineering and Management at UFSC**, based in Florianópolis, Brazil.
 
